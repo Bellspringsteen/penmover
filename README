@@ -1,1 +1,12 @@
 Harlem Print, a cheap 3d printer
+
+Wiring
+
+Stepper Motor
+28BYJ-48 12VDC
+
+1. Blue - M2
+2. Pink - M1
+3. Yellow - M2
+4. Orange - M1
+5. Red - Ground
